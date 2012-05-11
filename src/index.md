@@ -7,6 +7,13 @@
 
 Arion banki býður einnig upp á blönduð íbúðalán með annaðhvort 25%, 50% eða 75% skiptingu; verðtryggt á móti óverðtryggt. Kjörin eru þau sömu og hér að ofan.
 
+#### Íbúðalánasjóður
+
+* [Verðtryggt fastir vextir með uppgreiðsluákvæði](http://ils.is/einstaklingar/lan/lan-til-ibudarkaupa/) - 0-80% (max 20M) á 4,2% í 20,30,40 ár
+* [Verðtryggt fastir vextir án uppgreiðsluákvæði](http://ils.is/einstaklingar/lan/lan-til-ibudarkaupa/) - 0-80% (max 20M) á 4,7% í 20,30,40 ár
+
+Lán hjá Íbúðalánasjóði eru ein um að vera með fasta vexti út allt tímabilið. Einnig er ekki krafa á 1. veðrétt.
+
 #### Íslandsbanki
 
 * [Óverðtryggt fastir vextir í 3 ár](http://www.islandsbanki.is/einstaklingar/lan/husnaedislan/overdtryggt-husnaedislan/) - 0-70%  á 6,55% í 1-40 ár - 70-80% á 7,45% í 1-25 ár
@@ -22,10 +29,10 @@ Arion banki býður einnig upp á blönduð íbúðalán með annaðhvort 25%, 5
 * [Óverðtryggt breytilegir vextir](http://www.landsbankinn.is/einstaklingar/lan-og-fjarmognun/fasteignalan/overdtryggd-ibudalan/breytilegir-vextir/) - 0-70% á 6,15% í 1-40 ár - 70-85% á 7,15% í 1-15 ár
 * [Verðtryggt breytilegir vextir](http://www.landsbankinn.is/einstaklingar/lan-og-fjarmognun/fasteignalan/verdtryggd-ibudalan/) - 0-70% á 3,75% í 1-40 ár - 70-85% á 4,75% í 1-15 ár
 
-#### Íbúðalánasjóður
+#### MP Banki
 
-* [Verðtryggt fastir vextir með uppgreiðsluákvæði](http://ils.is/einstaklingar/lan/lan-til-ibudarkaupa/) - 0-80% (max 20M) á 4,2% í 20,30,40 ár
-* [Verðtryggt fastir vextir án uppgreiðsluákvæði](http://ils.is/einstaklingar/lan/lan-til-ibudarkaupa/) - 0-80% (max 20M) á 4,7% í 20,30,40 ár
+* [Óverðtryggt breytilegir vextir](https://www.mp.is/einstaklingar/vorur-og-thjonusta/lan/ibudalan-overdtryggt/) - 0-60% á 5,65% í 15,25,40 ár - 60-80% á 6,00% í 1-10 ár
+* [Verðtryggt fastir vextir](https://www.mp.is/einstaklingar/vorur-og-thjonusta/lan/ibudalan-verdtryggt/) - 0-60% á 4,30% í 25,40 ár - 60-80% á 6,00% í 1-25 ár
 
 ### Athugið
 
