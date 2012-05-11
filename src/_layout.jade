@@ -1,0 +1,42 @@
+doctype 5
+html(lang="is")
+  head
+    meta(charset='utf-8')
+    meta(http-equiv='X-UA-Compatible', content='chrome=1')
+    meta(name='description', content='Íslensk lán : Yfirlit yfir framboð á fasteignarlánum ásamt þróun á vöxtum.')
+
+    link(rel='stylesheet', type='text/css', media='screen', href='stylesheets/stylesheet.css')
+
+    title Íslensk lán
+
+  body
+    #header_wrap.outer
+      header.inner
+        a#forkme_banner(href='https://github.com/eirikurn/ice-mortgage')
+          | View on GitHub
+
+        h1#project_title Íslensk lán
+        h2#project_tagline Yfirlit yfir framboð á fasteignarlánum ásamt þróun á vöxtum.
+
+    #main_content_wrap.outer
+      section#main_content.inner!= body
+
+    #footer_wrap.outer
+      footer.inner
+        p.copyright
+          | Íslensk lán maintained by 
+          a(href="https://github.com/eirikurn") eirikurn
+
+        p
+          | Published with 
+          a(href="http://pages.github.com") GitHub Pages
+
+    script
+      var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+      document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+          
+    script
+      try {
+        var pageTracker = _gat._getTracker("UA-8078862-1");
+        pageTracker._trackPageview();
+      } catch(err) {}
