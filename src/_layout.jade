@@ -19,7 +19,13 @@ html(lang="is")
         h2#project_tagline Yfirlit yfir framboð á fasteignarlánum ásamt þróun á vöxtum.
 
     #main_content_wrap.outer
-      section#main_content.inner!= body
+      section#main_content.inner
+        div#sharethis
+          span.st_facebook_large(displayText='Facebook')
+          span.st_twitter_large(displayText='Tweet')
+          span.st_googleplus_large(displayText='Google +')
+          span.st_email_large(displayText='Email')
+        != body
 
     #footer_wrap.outer
       footer.inner
@@ -31,6 +37,14 @@ html(lang="is")
           | Published with 
           a(href="http://pages.github.com") GitHub Pages
 
+    // Sharing buttons
+    script
+      var switchTo5x=true;
+    script(type="text/javascript", src="http://w.sharethis.com/button/buttons.js")
+    script
+      stLight.options({publisher: "ur-3c53d64a-3e66-89cb-3801-821da03a28e1"});
+
+    // Analytics
     script
       var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
       document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
